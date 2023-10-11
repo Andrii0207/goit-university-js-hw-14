@@ -21,6 +21,3 @@ root.append(...list)
 
 
 
-
-
-
